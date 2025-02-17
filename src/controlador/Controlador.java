@@ -15,6 +15,5 @@ public class Controlador {
     
     public int getCelda(int x, int y) {
         return laberinto.getCelda(x, y);
-        
     }
 }
