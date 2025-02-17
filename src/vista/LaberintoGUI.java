@@ -215,4 +215,5 @@ public class LaberintoGUI extends JFrame {
         }
         botones[startX][startY].setBackground(Color.MAGENTA);
     }
+    
 }

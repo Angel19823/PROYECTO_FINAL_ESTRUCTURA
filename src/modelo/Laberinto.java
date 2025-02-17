@@ -25,4 +25,5 @@ public class Laberinto {
     public int getCelda(int x, int y) {
         return grid[x][y];
     }
+    
 }
