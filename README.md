@@ -52,7 +52,16 @@ Salida: Lista de celdas que representan el camino encontrado.
 
 5. Resultados y Comparación 
 
-Se ejecutaron pruebas con diferentes tamaños de laberintos y configuraciones. Se obtuvieron los siguientes resultados: 
+Se ejecutaron pruebas con diferentes tamaños de laberintos y configuraciones. Se obtuvieron los siguientes resultados:
+
+
+Algoritmo     Éxito     Pasos Recorridos     Tiempo de Ejecución 
+
+BFS             ✓           Mínimo                Rápido 
+
+Recursivo       ✓          Variable               Medio 
+
+DPB             ✓         Optimizado              Medio 
 
 6. Conclusiones 
 
