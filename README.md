@@ -1,3 +1,4 @@
+
 Informe Técnico: Implementación de Algoritmos para Resolver Laberintos 
 
 1. Introducción 
@@ -74,7 +75,5 @@ La búsqueda recursiva es menos eficiente en laberintos grandes debido a la pila
 7. Recomendaciones 
 
 Mejorar la interfaz de usuario para facilitar la configuración del laberinto. 
-
 Implementar visualizaciones gráficas para mostrar la exploración del laberinto en tiempo real. 
-
 Explorar algoritmos heurísticos como A* para mejorar la eficiencia. 
