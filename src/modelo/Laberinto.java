@@ -191,7 +191,6 @@ public class Laberinto {
 
     // ──────────────────────────────────────────────
     // MÉTODOS ANIMADOS: Recursivo y Dinámi
-    // ──────────────────────────────────────────────
 
     // Recursivo animado
     public boolean recursivoAnimado(int startX, int startY, int endX, int endY,
