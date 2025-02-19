@@ -49,11 +49,7 @@ Cada algoritmo se implementa en una clase distinta:
 - **Entrada**: Matriz booleana que representa el laberinto, celdas de inicio y destino.
 - **Salida**: Lista de celdas que representan el camino encontrado.
 
-<<<<<<< HEAD
 ![Ejemplo de Entrada y Salida](Imagenes/ES.png)
-=======
-![Ejemplo de Entrada y Salida](Imagenes/Entrada-Salida.png)
->>>>>>> ad57ef472577d92c09ad445f54591a3fec475b66
 
 ### Resultados y Comparación
 Se ejecutaron pruebas con diferentes tamaños de laberintos y configuraciones. Se obtuvieron los siguientes resultados:
@@ -79,8 +75,4 @@ Se ejecutaron pruebas con diferentes tamaños de laberintos y configuraciones. S
 ![Visualización del Laberinto](Imagenes/BFS.png)
 ![Visualización del Laberinto](Imagenes/DFS.png)
 ![Visualización del Laberinto](Imagenes/Dinamico.png)
-<<<<<<< HEAD
 ![Visualización del Laberinto](Imagenes/Recursivo.png)
-=======
-![Visualización del Laberinto](Imagenes/Recursivo.png)
->>>>>>> ad57ef472577d92c09ad445f54591a3fec475b66
