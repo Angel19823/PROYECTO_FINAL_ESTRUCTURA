@@ -4,5 +4,6 @@ import vista.LaberintoGUI;
 public class App {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> new LaberintoGUI().setVisible(true));
+        System.out.println();
     }
 }
