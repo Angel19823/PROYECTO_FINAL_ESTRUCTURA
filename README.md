@@ -5,9 +5,9 @@
 
 
 ### Carátula
-- **Carrera:** Ingeniera en Ciencias de la Comnputacion
+- **Carrera:** Ingeniera en Ciencias de la Computacion
 - **Materia:** Estructura de Datos
-- **Integrantes:** Angel Cardenas () y Jose Tixi (jtixit@est.ups.edu.ec)
+- **Integrantes:** Angel Cardenas (acardenasl2@est.ups.edu.ec) y Jose Tixi (jtixit@est.ups.edu.ec)
 
 ### Introducción
 Este informe documenta el desarrollo de una aplicación para encontrar la ruta óptima en un laberinto utilizando diferentes enfoques algorítmicos. El proyecto está basado en la materia "Estructura de Datos" y aplica conceptos de programación dinámica, estructuras de datos lineales y no lineales.
