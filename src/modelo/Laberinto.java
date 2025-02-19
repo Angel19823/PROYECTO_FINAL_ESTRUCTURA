@@ -190,9 +190,7 @@ public class Laberinto {
     }
 
     // ──────────────────────────────────────────────
-    // MÉTODOS ANIMADOS: Recursivo y Dinámico
-    // Estos métodos registran el “orden de exploración” y el “camino final”
-    // para ser animados en la Vista con el mismo estilo que BFS.
+    // MÉTODOS ANIMADOS: Recursivo y Dinámi
     // ──────────────────────────────────────────────
 
     // Recursivo animado
