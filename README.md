@@ -49,7 +49,7 @@ Cada algoritmo se implementa en una clase distinta:
 - **Entrada**: Matriz booleana que representa el laberinto, celdas de inicio y destino.
 - **Salida**: Lista de celdas que representan el camino encontrado.
 
-![Ejemplo de Entrada y Salida](Imagenes/Entrada- Salida.png)
+![Ejemplo de Entrada y Salida](Imagenes/Entrada-Salida.png)
 
 ### Resultados y Comparación
 Se ejecutaron pruebas con diferentes tamaños de laberintos y configuraciones. Se obtuvieron los siguientes resultados:
@@ -60,7 +60,7 @@ Se ejecutaron pruebas con diferentes tamaños de laberintos y configuraciones. S
 | Recursivo  | ✓     | Variable        | Medio               |
 | DPB        | ✓     | Optimizado      | Medio               |
 
-![Comparación de Resultados](Imagenes/Comparacion 4.png)
+![Comparación de Resultados](Imagenes/Comparacion4.png)
 
 ### Conclusiones
 - BFS es la mejor estrategia para encontrar el camino más corto.
