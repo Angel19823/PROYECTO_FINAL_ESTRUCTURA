@@ -1,12 +1,13 @@
+
 ![Logo de la Universidad](https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Universidad_Polit%C3%A9cnica_Salesiana_del_Ecuador.png)
 
-## Informe Técnico: Implementación de Algoritmos para Resolver Laberintos
+# Informe Técnico: Implementación de Algoritmos para Resolver Laberintos
 
 
 ### Carátula
 - **Carrera:** Ingeniera en Ciencias de la Comnputacion
 - **Materia:** Estructura de Datos
-- **Integrantes:** Angel Cardenas y Jose Tixi
+- **Integrantes:** Angel Cardenas () y Jose Tixi (jtixit@est.ups.edu.ec)
 
 ### Introducción
 Este informe documenta el desarrollo de una aplicación para encontrar la ruta óptima en un laberinto utilizando diferentes enfoques algorítmicos. El proyecto está basado en la materia "Estructura de Datos" y aplica conceptos de programación dinámica, estructuras de datos lineales y no lineales.
@@ -30,21 +31,25 @@ El laberinto se modela como una matriz de celdas transitables y no transitables.
 - **Interfaz (`interfaces`)**: Define la interfaz `MazeSolve` para estandarizar las implementaciones.
 - **Clase Principal (`App.java`)**: Orquesta la ejecución de los algoritmos y la visualización del laberinto.
 
->![Estructura del Proyecto](Imagenes/chagpt.png)
-
 #### Implementación de Algoritmos
 Cada algoritmo se implementa en una clase distinta:
 - `MazeSolverRecursivo.java`: Implementa una solución recursiva para recorrer el laberinto.
 - `MazeSolveBFS.java`: Usa BFS para encontrar la ruta más corta.
 - `MazeSolverDPB.java`: Aplica programación dinámica para mejorar la eficiencia.
 
->![Código de Implementación](Imagenes/by_nick_449032666_3700470563563105_5772677074616614575_n.jpg)
+![Código de Implementación](Imagenes/Implementacion1.png)
+![Código de Implementación](Imagenes/Implementacion2.png)
+![Código de Implementación](Imagenes/Implementacion3.png)
+![Código de Implementación](Imagenes/Implementacion4.png)
+![Código de Implementación](Imagenes/Implementacion5.png)
+![Código de Implementación](Imagenes/Implementacion6.png)
+![Código de Implementación](Imagenes/Implementacion7.png)
 
 #### Entrada y Salida
 - **Entrada**: Matriz booleana que representa el laberinto, celdas de inicio y destino.
 - **Salida**: Lista de celdas que representan el camino encontrado.
 
->![Ejemplo de Entrada y Salida](ruta/a/tu/imagen.png)
+![Ejemplo de Entrada y Salida](Imagenes/Entrada- Salida.png)
 
 ### Resultados y Comparación
 Se ejecutaron pruebas con diferentes tamaños de laberintos y configuraciones. Se obtuvieron los siguientes resultados:
@@ -55,7 +60,7 @@ Se ejecutaron pruebas con diferentes tamaños de laberintos y configuraciones. S
 | Recursivo  | ✓     | Variable        | Medio               |
 | DPB        | ✓     | Optimizado      | Medio               |
 
->![Comparación de Resultados](ruta/a/tu/imagen.png)
+![Comparación de Resultados](Imagenes/Comparacion 4.png)
 
 ### Conclusiones
 - BFS es la mejor estrategia para encontrar el camino más corto.
@@ -67,4 +72,7 @@ Se ejecutaron pruebas con diferentes tamaños de laberintos y configuraciones. S
 - Implementar visualizaciones gráficas para mostrar la exploración del laberinto en tiempo real.
 - Explorar algoritmos heurísticos como A* para mejorar la eficiencia.
 
->![Visualización del Laberinto](ruta/a/tu/imagen.png)
+![Visualización del Laberinto](Imagenes/BFS.png)
+![Visualización del Laberinto](Imagenes/DFS.png)
+![Visualización del Laberinto](Imagenes/Dinamico.png)
+![Visualización del Laberinto](Imagenes/Recursivo.png)
